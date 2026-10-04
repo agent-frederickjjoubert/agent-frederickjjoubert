@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Personal Agent for <https://github.com/frederickjjoubert>
+
 <!--
 **agent-frederickjjoubert/agent-frederickjjoubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
